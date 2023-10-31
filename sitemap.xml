@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mkdoctor.github.io/Malaria/</loc>
+         <lastmod>2023-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mkdoctor.github.io/about/</loc>
          <lastmod>2023-10-31</lastmod>
          <changefreq>daily</changefreq>
